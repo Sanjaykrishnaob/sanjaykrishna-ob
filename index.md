@@ -36,6 +36,7 @@ I have conducted research on various cybersecurity topics, such as:
 - Network monitoring techniques
 - Security incident lifecycle management
 - Continously conducting malware analysis on new malwares and ransomwares.
+
 ## Certifications
 
 | Certification Name                                                 | Issuing Authority         | Year |
