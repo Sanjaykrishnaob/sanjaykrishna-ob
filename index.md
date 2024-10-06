@@ -47,7 +47,7 @@ I have conducted research on various cybersecurity topics, such as:
 
 Feel free to reach out to me for collaboration or cybersecurity discussions!
 
-[LinkedIn](#) | [GitHub](#) | [Email](#)
+[LinkedIn](https://www.linkedin.com/in/sanjay-krishna-o-b-b7ab132b2/)
 
 ---
 
