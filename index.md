@@ -13,7 +13,7 @@ My skills include: Malware Analysis, Incident Response, Threat Intelligence, Sec
 
 I stay updated with the latest trends and actively participate in cybersecurity communities and I spawn VMs to analyze the behavior of the malware using Static and Dynamic analysis using various tools such PE Studio, Volatility workbench, process monitor and autoruns, etc..
 
-I also have interests in astronomy, astrophotography.
+I also have interests in astronomy and astrophotography.
 
 ## My Skills
 
@@ -47,7 +47,7 @@ I have conducted research on various cybersecurity topics, such as:
 
 ## Contact
 
-Feel free to reach out to me for collaboration or cybersecurity discussions!
+Feel free to reach out to me for collaboration or cybersecurity discussions on my LinkedIn!
 
 [LinkedIn](https://www.linkedin.com/in/sanjay-krishna-o-b-b7ab132b2/)
 
