@@ -5,13 +5,15 @@ title: Aspiring SOC Analyst
 
 # About Me
 
-I am an aspiring **Cybersecurity SOC Analyst** with a passion for securing systems and networks. I have completed the following certifications to advance my knowledge and skills:
+I am an aspiring **Cybersecurity SOC Analyst** with a passion for securing systems and networks. 
 
-- **Google Professional Certificate in Cybersecurity**
-- **Microsoft Cybersecurity Analyst Professional Certificate**
-- **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**
+With hands-on experience in identifying vulnerabilities, analyzing potential threats, and ensuring system integrity, I am committed to a career in Security Operations Centers (SOC).As a passionate in cybersecurity, specializing in malware analysis, I am also committed to protecting digital environments from evolving threats. With a deep understanding of malware behavior, I excel in identifying malware and mitigating cyber threats.
 
-With hands-on experience in identifying vulnerabilities, analyzing potential threats, and ensuring system integrity, I am committed to a career in Security Operations Centers (SOC). 
+My skills include: Malware Analysis, Incident Response, Threat Intelligence, Security Architecture.
+
+I stay updated with the latest trends and actively participate in cybersecurity communities and I spawn VMs to analyze the behavior of the malware using Static and Dynamic analysis using various tools such PE Studio, Volatility workbench, process monitor and autoruns, etc..
+
+I also have interests in astronomy, astrophotography.
 
 ## My Skills
 
@@ -23,9 +25,8 @@ With hands-on experience in identifying vulnerabilities, analyzing potential thr
 
 ## Projects
 
-### Windows Hardening for Smart India Hackathon
-
-As part of my learning journey, I participated in the Smart India Hackathon, focusing on **Windows hardening** to enhance the security posture of enterprise environments.
+### Built Malware Analysis Lab
+Built malware analysis lab on a VM using Flare, Which I used for Static and Dynamic Malware Analysis.
 
 ### Cybersecurity Research
 
@@ -34,14 +35,14 @@ I have conducted research on various cybersecurity topics, such as:
 - Best practices in endpoint security
 - Network monitoring techniques
 - Security incident lifecycle management
-
+- Continously conducting malware analysis on new malwares and ransomwares.
 ## Certifications
 
-| Certification Name                          | Issuing Authority         | Year |
-|---------------------------------------------|---------------------------|------|
-| Google Cybersecurity Professional Certificate | Google                    | 2024 |
-| Microsoft Cybersecurity Analyst             | Microsoft                  | 2024 |
-| SC-900: Security, Compliance, and Identity  | Microsoft                  | 2024 |
+| Certification Name                                                 | Issuing Authority         | Year |
+|--------------------------------------------------------------------|---------------------------|------|
+| Google Cybersecurity Professional Certificate                       | Google                   | 2024 |
+| Microsoft Cybersecurity Analyst Professional certificate            | Microsoft                | 2024 |
+| Microsoft Certified: SC-900: Security, Compliance, and Identity     | Microsoft                | 2024 |
 
 ## Contact
 
