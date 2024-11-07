@@ -28,7 +28,7 @@ I also have interests in astrophysics and astrophotography.
 - Implemented Physical Security with Iot Devices using Cisco Packet tracer
 - Analyzed Antivirus Solutions from Different vendors and recorded their detection methods for Zero day Malwares and Ransomwares in a VM.
 
-## Cybersecurity Research
+## My Research
 
 I have conducted research on various cybersecurity topics, such as:
 
