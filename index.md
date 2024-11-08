@@ -49,6 +49,7 @@ I have conducted research on various cybersecurity topics, such as:
 
 -  Cisco Junior Cybersecurity Analyst Career Path
 -  Cisco Endpoint Security
+-  Cisco Network Defense
 -  Introduction to Splunk
 -  Mastercard - Cybersecurity Job Simulation (Forage)
 -  PwC Switzerland - Cybersecurity Job Simulation (Forage)
